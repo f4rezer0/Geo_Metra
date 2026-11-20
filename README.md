@@ -4,10 +4,10 @@ Visualizzatore dei modelli 3D fotogrammetrici realizzati dall'APS FareZero Maker
 
 Contiene due modelli, elaborati con WebODM da riprese con drone DJI:
 
-| Modello | Foto | Volo |
-|---|---|---|
-| Chiesa di San Pietro Mandurino | circa 143 | 13/10/2026 |
-| Torre Borraco | circa 227 | 13/10/2026 |
+| Modello | Foto |
+|---|---|
+| Chiesa di San Pietro Mandurino | circa 143 |
+| Torre Borraco | circa 227 |
 
 ## Cosa c'è
 
