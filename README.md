@@ -35,7 +35,7 @@ poi apri `http://localhost:8000/app.html`.
 ## Aggiornare i modelli
 
 1. Sostituisci i file `.glb` (stesso nome).
-2. In `sw.js` cambia il numero di versione, per esempio da `fz3d-v3` a `fz3d-v4`: i tablet scaricano la nuova versione al collegamento successivo.
+2. In `sw.js` cambia il numero di versione, per esempio da `fz3d-v4` a `fz3d-v5`: i tablet scaricano la nuova versione al collegamento successivo.
 3. Aggiorna le schede informative (foto, data del volo) in `app.html` e `index.html`.
 
 ## Librerie esterne
@@ -47,6 +47,16 @@ L'app carica due librerie da CDN, citate nella privacy policy del sito:
 
 Dopo il primo caricamento restano nella cache del tablet e l'app funziona offline.
 
+## Crediti
+
+Laboratorio Geo_metra, progetto "Manduria: la Forma dell'Acqua" (POC Puglia 2021-2027, Accordo per la Coesione della Regione Puglia, CUP I89D23000220002).
+
+- Stazione appaltante: Centrale Unica di Committenza Unione dei Comuni Montedoro / Comune di Manduria
+- Realizzazione: APS FareZero Makers Fab Lab
+- Partner scolastico: I.I.S.S. "Luigi Einaudi" di Manduria
+
 ## Licenza
 
-Da definire: non è ancora stata scelta una licenza per codice e modelli.
+- Codice (`app.html`, `index.html`, `sw.js`, `manifest.json`): [MIT](LICENSE)
+- Modelli 3D, testi e documentazione: [CC BY 4.0](LICENSE-CONTENT.md)
+- Nome e logo FareZero: esclusi dalle licenze, vedi `LICENSE-CONTENT.md`
